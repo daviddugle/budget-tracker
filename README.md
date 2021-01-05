@@ -21,13 +21,15 @@ full stack project that keeps track of your budget.  This project takes advantag
 ### Table of Contents
 
 
+* [Deployed](#Deployed)
+
 * [Description](#Description)
 
 * [Installation](#Installation)
 
 * [Technologies](#Technologies)
 
-* [Usage](##Usage)
+* [Usage](#Usage)
 
 * [Contributing](#Contributing)
 
@@ -53,6 +55,12 @@ full stack project that keeps track of your budget.  This project takes advantag
 
 
 
+## Deployed
+
+Deployed:
+
+<a href='https://daviddugle.github.io/budget-tracker/' target='_blank'>Deployed Link</a>
+
 
 ## Description
 
@@ -62,14 +70,14 @@ Simple budget tracker that uses indexedDB and mongo for storage. This app can wo
 
 
 
-## Installation Instructions
+## Installation 
 
 From the terminal you should perform a NPM install and then npm start. Once you have the app running on local host you follow the prompts. You can take it offline and it will save the values in indexedDB and when you get back online it will transfer to the other database and clear out the indexedDB.
 
 
 
 
-## Technologies Used
+## Technologies 
 
 * compression
 * express
@@ -134,4 +142,4 @@ in terminal on local host, switch it on and offline.
 
 ## Video
 
-![gif]()
+![gif](https://github.com/daviddugle/budget-tracker/blob/main/public/assets/demo.gif?raw=true)
